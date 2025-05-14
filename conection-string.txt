@@ -1,0 +1,1 @@
+metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string="data source=Furkan\SQLEXPRESS;initial catalog=KargoVt;user id=sa;password=***********;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework"
